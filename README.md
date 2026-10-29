@@ -1,5 +1,7 @@
 ## Hi, I'm Ali 👋
 
+🌐 **Portfolio:** [ali-nawaz.sites.tab.bot](https://ali-nawaz.sites.tab.bot)
+
 I'm a CS student from Islamkot, Tharparkar, now studying in Karachi. I'm interested in **security** and **systems**: how languages, interpreters and networks work under the hood, and how they break.
 
 I also like building tools for my own language, Sindhi.
