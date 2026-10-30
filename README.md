@@ -10,6 +10,8 @@ I also like building tools for my own language, Sindhi.
 
 **[SindhiScript](https://github.com/mr-ans-2006/SindhiScript)**: a programming language written entirely in Sindhi. It's a tree-walking interpreter in Python, with its own lexer, recursive-descent parser and evaluator. It supports functions, classes with inheritance, try/catch, modules, a Python interop block and a browser-based IDE built for right-to-left text.
 
+**[▶ Try SindhiScript live](https://mr-ans-2006.github.io/SindhiScript/)**
+
 ```
 ڪم فيڪٽوريل(ن):
     جيڪڏهن ن گهٽ_برابر 1:
@@ -31,7 +33,3 @@ I also like building tools for my own language, Sindhi.
 ### Currently
 
 - Learning networking: Cisco switching, VLANs, telnet and port security
-
-### Stats
-
-![GitHub streak](https://streak-stats.demolab.com/?user=mr-ans-2006&hide_border=true)
