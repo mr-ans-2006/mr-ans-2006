@@ -1,6 +1,6 @@
 ## Hi, I'm Ali 👋
 
-🌐 **Portfolio:** [ali-nawaz.sites.tab.bot](https://ali-nawaz.sites.tab.bot)
+🌐 **Portfolio:** [mr-ans-2006.github.io/Portfolio](https://mr-ans-2006.github.io/Portfolio/)
 
 I'm a CS student from Islamkot, Tharparkar, now studying in Karachi. I'm interested in **security** and **systems**: how languages, interpreters and networks work under the hood, and how they break.
 
