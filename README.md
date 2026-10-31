@@ -30,6 +30,3 @@ I also like building tools for my own language, Sindhi.
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### Currently
-
-- Learning networking: Cisco switching, VLANs, telnet and port security
